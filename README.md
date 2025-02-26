@@ -1,4 +1,4 @@
-# Gen Z Career Aspirations - Data Analysis Project
+# Gen Z Career Aspirations - Data Analysis and Business Analysis Project
 
 ## 📌 Project Overview
 This project aims to analyze the career aspirations, preferences, and expectations of Generation Z. By leveraging data analytics, we provide insights into job roles, salary expectations, skill development trends, and workplace preferences of Gen Z individuals.
